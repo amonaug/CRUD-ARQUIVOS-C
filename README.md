@@ -19,10 +19,10 @@ Permite atualizar as informações de um contato existente. O usuário deve forn
 ### 5. Sair
 Encerra a aplicação de forma segura, garantindo que todas as operações pendentes sejam concluídas e que o arquivo de contatos seja salvo corretamente.
 
-##Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões, encontrar bugs ou quiser adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-##Licenças
+## Licenças
 
 Este projeto está licenciado sob a MIT License.
